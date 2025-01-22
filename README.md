@@ -39,7 +39,7 @@ How to Run:
 
 Clone this repository to your local machine using:
 
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/GurpreetSingh7574/spotify-clone.git
 
 Navigate to the project directory:
 
